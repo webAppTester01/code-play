@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/code-play/static/css/main.423b767a.css",
-    "main.js": "/code-play/static/js/main.720e882e.js",
+    "main.js": "/code-play/static/js/main.206dbb8f.js",
     "static/media/We_Are_The_World.mp3": "/code-play/static/media/We_Are_The_World.06d1409fae37abceb52e.mp3",
     "static/media/a_beautiful_day.mp3": "/code-play/static/media/a_beautiful_day.fc92d28db9f740c923f8.mp3",
     "static/media/forest-lullaby-110624.mp3": "/code-play/static/media/forest-lullaby-110624.983891a002249e62f1fd.mp3",
@@ -13,10 +13,10 @@
     "static/media/jackson.jpeg": "/code-play/static/media/jackson.44770b132f82a66fb526.jpeg",
     "index.html": "/code-play/index.html",
     "main.423b767a.css.map": "/code-play/static/css/main.423b767a.css.map",
-    "main.720e882e.js.map": "/code-play/static/js/main.720e882e.js.map"
+    "main.206dbb8f.js.map": "/code-play/static/js/main.206dbb8f.js.map"
   },
   "entrypoints": [
     "static/css/main.423b767a.css",
-    "static/js/main.720e882e.js"
+    "static/js/main.206dbb8f.js"
   ]
 }
